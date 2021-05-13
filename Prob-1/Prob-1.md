@@ -1,4 +1,4 @@
-# Module 7 - Programming Assignment 10 - Problem 1
+# Module 7 - Programming Assignment - Problem 1
 
 **Sepecification**
 

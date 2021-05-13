@@ -1,4 +1,4 @@
-# Module 7 - Programming Assignment 10 - Problem 5 OPTIONAL BONUS
+# Module 7 - Programming Assignment - Problem 5 OPTIONAL BONUS
 
 **Specification**
 
