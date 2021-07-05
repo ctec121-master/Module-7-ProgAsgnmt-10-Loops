@@ -6,8 +6,8 @@ Wrtie a program that reads in a text file and produces the sum of all the number
 
 The file:
 - may have blank lines
-- may have on a single number in a line
-- may have multiple numbers in a line separated by spaces
+- may have a single number in a line
+- may have multiple numbers in a line separated by spaces - NOTE: this will require a nested loop to deal with the numbers on this line.
 
 **Output**
 
